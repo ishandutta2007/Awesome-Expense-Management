@@ -64,7 +64,7 @@ The table below summarizes leading commercial expense management and corporate s
 
 Self-hosted and community-driven tools for receipt capture, expense approvals, multi-currency budget tracking, and corporate claim workflows. Repositories are sorted descending by GitHub stargazers. 🌟
 
-| Project 💻 | GitHub Stars ⭐ | Primary Language / Stack 🛠️ | License 📜 | Description & Use Case 💡 |
+| Project 💻 | GitHub_Stars ⭐ | Primary Language / Stack 🛠️ | License 📜 | Description & Use Case 💡 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Firefly III](https://github.com/firefly-iii/firefly-iii)** | [![Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) | PHP / Laravel | AGPL-3.0 | Self-hosted financial management and expense tracker with double-entry bookkeeping, budget limits, receipt attachments, and REST API. 📊 |
 | **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** | [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | PHP / Flutter | AGPL-3.0 | Leading invoicing and expense management suite for freelancers and SMBs with auto-billing, vendor tracking, and multi-currency support. 🧾 |
